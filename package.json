@@ -1,0 +1,13 @@
+{
+  "name": "crud-render-atividade",
+  "version": "1.0.0",
+  "description": "Projeto CRUD para o Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "json-server": "^0.17.4"
+  }
+}

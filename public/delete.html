@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Deletar Pessoa (DELETE)</h1>
+        <nav>
+            <a href="index.html">Listar (GET)</a>
+            <a href="post.html">Adicionar (POST)</a>
+            <a href="put.html">Atualizar (PUT)</a>
+            <a href="delete.html">Deletar (DELETE)</a>
+        </nav>
+
+        <h3>Deletar por CPF</h3>
+        <div>
+            <label for="cpf-deleta">CPF:</label>
+            <input type="text" id="cpf-deleta" title="Digite o CPF para deletar" placeholder="Digite o CPF" required>
+            <button id="btn-deletar">Deletar</button>
+        </div>
+    </div>
+    <script src="js/delete.js"></script>
+</body>
+</html>

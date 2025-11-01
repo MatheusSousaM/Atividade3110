@@ -1,0 +1,30 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "Fulano",
+      "sobrenome": "de Tal",
+      "email": "fulano@email.com",
+      "idade": 30,
+      "telefone": "11987654321",
+      "rua": "Rua das Flores",
+      "bairro": "Centro",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cpf": "123.456.789-00"
+    },
+    {
+      "nome": "Matheus",
+      "sobrenome": "Sousa",
+      "email": "matheusousam3@gmail.com",
+      "idade": 12,
+      "telefone": "11978725918",
+      "rua": "um lugar",
+      "bairro": "Parque dos Jacarandás",
+      "cidade": "Categoria",
+      "estado": "sao paulo",
+      "cpf": "526.575.118-13",
+      "id": 2
+    }
+  ]
+}
